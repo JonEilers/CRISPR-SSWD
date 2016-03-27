@@ -2,8 +2,8 @@
 Looking at CRISPR sequences in Metagenomic Datasets of Sea Stars affected by Sea Star Wasting Disease and Healthy Individuals
 
 TO-DO
-[_] Read up on viral reference genomes or cogs
-[_] Read up on sea star wasting disease
+[]Read up on viral reference genomes or cogs
+[] Read up on sea star wasting disease
 [ ] Read up on finding CRISPR sequences in metagenomic data
 [ ] Read up on sea star bacteria and biology
 [ ] Find and install software for finding CRISPR sequences in metagenomic datasets
