@@ -16,7 +16,7 @@ TO-DO
 
 __Background info__:
   * CRISPR is part of bacterial immune system response to viruses
-  * short repeating sequences with viral DNA in between. used to recognize invading viral DNA
+  * short repeating sequences with viral DNA from previous invasions incorporated between each repeat. used to recognize invading viral DNA
   * Sea star wasting disease: sea stars die for unknown reason. correlated with a denso virus, cured with antibiotic
   * sea star immune system tightly connected with microbiome. if microbiome is disrupted, sea star becomes sick
 
