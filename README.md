@@ -23,3 +23,7 @@ __Background info__:
 __Hypothesis__: A bacteriophage is disrupting the microbiome. Either creating a highly virulent strain or killing one species
 
 __Expected Outcomes__: A history of what virus have infected the microbiome is recorded in the CRISPR seuqneces. If a virus is disrupting the microbiome, then a significant difference in crispr content should be present between healthy and sick metagenomic datasets. If not, then there should be no difference and the shift in the microbiome could be from the bacteria taking advantage of the dying sea star. 
+
+__Python Libraries__
+  * xml
+  * xlsxwriter
