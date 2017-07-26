@@ -1,0 +1,17 @@
+#VOG0001: has 16 proteins sequences from 16 genomes
+Inoviridae	Enterobacteria phage Ike	NC_002014	NP_040572.1	1296..1562	88	G V protein
+Inoviridae	Enterobacteria phage M13	NC_003287	NP_510887.1	843..1106	87	helix destabilising protein
+Inoviridae	Enterobacteria phage f1	AB334720	BAF74204.1	843..1106	87	protein V
+Inoviridae	Enterobacteria phage f1	AB334721	BAF74214.1	843..1106	87	protein V
+Inoviridae	Enterobacteria phage f1	GQ153919	ACY07158.1	843..1106	87	V
+Inoviridae	Enterobacteria phage f1	J02448	AAA32211.1	843..1106	87	-
+Inoviridae	Enterobacteria phage f1	JF719732	AEQ25512.1	843..1106	87	V protein
+Inoviridae	Enterobacteria phage f1	JF719733	AEQ25522.1	843..1106	87	V protein
+Inoviridae	Enterobacteria phage f1	JF719734	AEQ25532.1	843..1106	87	V protein
+Inoviridae	Enterobacteria phage fd	NC_025824	YP_009111299.1	843..1106	87	V
+Inoviridae	Stenotrophomonas phage phiSHP2	NC_015586	YP_004539132.1	1114..1416	100	single-stranded DNA binding protein
+Inoviridae	Stenotrophomonas phage phiSMA6	HG315669	CDF76785.1	1038..1316	92	single-stranded DNA binding protein
+Inoviridae	Stenotrophomonas phage phiSMA7	NC_021569	YP_008130367.1	2167..2466	99	hypothetical protein
+NA	Stenotrophomonas phage phiSMA9	NC_007189	YP_257152.1	6493..6771	92	hypothetical protein
+Podoviridae	Xanthomonas phage Cf1c	NC_001396	NP_536673.1	7087..75	98	V protein
+Podoviridae	Xanthomonas phage XacF1	AB910602	BAP16707.1	1077..1373	98	hypotheical protein

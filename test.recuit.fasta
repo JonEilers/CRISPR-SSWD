@@ -1,0 +1,38 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  test2.hmm
+# target sequence database:        test.fasta
+# output directed to file:         test.recuit.fasta
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       VOG4192  [M=6225]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (6225 nodes)
+Target sequences:                       503826  (202538052 residues searched)
+Passed MSV filter:                    107525  (0.213417); expected 10076.5 (0.02)
+Passed bias filter:                    80145  (0.159073); expected 10076.5 (0.02)
+Passed Vit filter:                     17206  (0.0341507); expected 503.8 (0.001)
+Passed Fwd filter:                      2508  (0.00497791); expected 5.0 (1e-05)
+Initial search space (Z):             503826  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 697.83u 0.22s 00:11:38.05 Elapsed: 00:02:55.76
+# Mc/sec: 7173.41
+//
+[ok]

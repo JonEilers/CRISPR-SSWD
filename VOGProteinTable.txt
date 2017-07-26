@@ -1,0 +1,12 @@
+VOG0001:NC_025824:Enterobacteria phage fd:NC_025824-YP_009111299.1| 843..1106 + 87 aa|V:[29258] {genometype} ssDNA viruses:[10860] {family} Inoviridae:[10861] {genus} Inovirus:[10864] {species} Enterobacteria phage fd
+VOG0001:NC_007189:Stenotrophomonas phage phiSMA9:NC_007189-YP_257152.1| 6493..6771 - 92 aa|hypothetical protein:[12333] {genometype} unclassified phages:[334856] {species} Stenotrophomonas phage phiSMA9
+VOG0002:J02448:Enterobacteria phage f1:J02448-AAA32214.1| 1301..1522 + 73 aa|-:[29258] {genometype} ssDNA viruses:[10860] {family} Inoviridae:[10861] {genus} Inovirus:[10870] {species} Enterobacteria phage M13:[10863] {no rank} Enterobacteria phage f1
+VOG0002:GQ153919:Enterobacteria phage f1:GQ153919-ACY07161.1| 1301..1522 + 73 aa|VIII:[29258] {genometype} ssDNA viruses:[10860] {family} Inoviridae:[10861] {genus} Inovirus:[10870] {species} Enterobacteria phage M1
+VOG0005:NC_001956:Vibrio phage fs2:NC_001956-NP_047372.1| 6259..7761 + 500 aa|phage assembly protein:[29258] {genometype} ssDNA viruses:[10860] {family} Inoviridae:[10861] {genus} Inovirus:[83201] {species} Vibrio phage fs2
+VOG0005:NC_003287:Enterobacteria phage M13:NC_003287-NP_510894.1| 4220..5500 + 426 aa|phage assembly protein:[29258] {genometype} ssDNA viruses:[10860] {family} Inoviridae:[10861] {genus} Inovirus:[10870] {species} Enterobacteria phage M13
+VOG0005:NC_021562:Vibrio phage VFJ:NC_021562-YP_008130282.1| 5976..7304 + 442 aa|phage morphogenesis protein:[29258] {genometype} ssDNA viruses:[10860] {family} Inoviridae:[10861] {genus} Inovirus:[356623] {no rank} unclassified Inovirus:[1340745] {species} Vibrio phage VFJ
+VOG0005:NC_025824:Enterobacteria phage fd:NC_025824-YP_009111306.1| 4221..5501 + 426 aa|IV:[29258] {genometype} ssDNA viruses:[10860] {family} Inoviridae:[10861] {genus} Inovirus:[10864] {species} Enterobacteria phage fd
+VOG0006:AB012574:Vibrio phage Vf12:AB012574-BAA33517.1| 1583..3058 + 491 aa|Vpf491:[29258] {genometype} ssDNA viruses:[10860] {family} Inoviridae:[10861] {genus} Inovirus:[127511] {species} Vibrio phage Vf12
+VOG0006:AB572858:Vibrio phage ND1-fs1:AB572858-BAJ12059.1| 94..1575 + 493 aa|RstR protein:[29258] {genometype} ssDNA viruses:[10860] {family} Inoviridae:[456491] {no rank} unclassified Inoviridae:[642111] {species} Vibrio phage VEJphi:[867695] {no rank} Vibrio phage ND1-fs1
+VOG0006:NC_001956:Vibrio phage fs2:NC_001956-NP_047369.1| 3317..4813 + 498 aa|hypothetical protein:[29258] {genometype} ssDNA viruses:[10860] {family} Inoviridae:[10861] {genus} Inovirus:[83201] {species} Vibrio phage fs2
+

@@ -1,0 +1,54 @@
+# STOCKHOLM 1.0
+
+#=GS VOG0001|NC_002014-NP_040572.1|    DE 1296..1562 + 88 aa|G V protein
+#=GS VOG0001|AB334720-BAF74204.1|      DE 843..1106 + 87 aa|protein V
+#=GS VOG0001|AB334721-BAF74214.1|      DE 843..1106 + 87 aa|protein V
+#=GS VOG0001|J02448-AAA32211.1|        DE 843..1106 + 87 aa|-
+#=GS VOG0001|GQ153919-ACY07158.1|      DE 843..1106 + 87 aa|V
+#=GS VOG0001|JF719733-AEQ25522.1|      DE 843..1106 + 87 aa|V protein
+#=GS VOG0001|JF719734-AEQ25532.1|      DE 843..1106 + 87 aa|V protein
+#=GS VOG0001|NC_003287-NP_510887.1|    DE 843..1106 + 87 aa|helix destabilising protein
+#=GS VOG0001|NC_025824-YP_009111299.1| DE 843..1106 + 87 aa|V
+#=GS VOG0001|JF719732-AEQ25512.1|      DE 843..1106 + 87 aa|V protein
+#=GS VOG0001|AB910602-BAP16707.1|      DE 1077..1373 + 98 aa|hypotheical protein
+#=GS VOG0001|NC_001396-NP_536673.1|    DE 7087..75 + 98 aa|V protein
+#=GS VOG0001|HG315669-CDF76785.1|      DE 1038..1316 + 92 aa|single-stranded DNA binding protein
+#=GS VOG0001|NC_007189-YP_257152.1|    DE 6493..6771 - 92 aa|hypothetical protein
+#=GS VOG0001|NC_015586-YP_004539132.1| DE 1114..1416 + 100 aa|single-stranded DNA binding protein
+#=GS VOG0001|NC_021569-YP_008130367.1| DE 2167..2466 + 99 aa|hypothetical protein
+
+VOG0001|NC_002014-NP_040572.1|            ....MLTVEIHDSQVSV..KERSGV........SqKSGKP-YTIREQEAYIDLGGV.YPALFNFNL..EDGQQPYPAGKYRLHPASFKINNFGQVAVGR------.-------------vlles-vk-----------
+#=GR VOG0001|NC_002014-NP_040572.1|    PP ....89***********..******........*9*********************.*********..****************************998...................********************
+VOG0001|AB334720-BAF74204.1|              ....MIKVEIKPSQAQF..TTRSGV........S-RQGKP-YSLNEQLCYVDLGNE.YPVLVKITL..DEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR------.-------------lrlvp-ak-----------
+#=GR VOG0001|AB334720-BAF74204.1|      PP ....9************..******........***********************.*********..*****************************98...................99999***************
+VOG0001|AB334721-BAF74214.1|              ....MIKVEIKPSQAQF..TTRSGV........S-RQGKP-YSLNEQLCYVDLGNE.YPVLVKITL..DEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR------.-------------lrlvp-ak-----------
+#=GR VOG0001|AB334721-BAF74214.1|      PP ....9************..******........***********************.*********..*****************************98...................99999***************
+VOG0001|J02448-AAA32211.1|                ....MIKVEIKPSQAQF..TTRSGV........S-RQGKP-YSLNEQLCYVDLGNE.YPVLVKITL..DEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR------.-------------lrlvp-ak-----------
+#=GR VOG0001|J02448-AAA32211.1|        PP ....9************..******........***********************.*********..*****************************98...................99999***************
+VOG0001|GQ153919-ACY07158.1|              ....MIKVEIKPSQAQF..TTRSGV........S-RQGKP-YSLNEQLCYVDLGNE.YPVLVKITL..DEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR------.-------------lrlvp-ak-----------
+#=GR VOG0001|GQ153919-ACY07158.1|      PP ....9************..******........***********************.*********..*****************************98...................99999***************
+VOG0001|JF719733-AEQ25522.1|              ....MIKVEIKPSQAQF..TTRSGV........S-RQGKP-YSLNEQLCYVDLGNE.YPVLVKITL..DEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR------.-------------lrlvp-ak-----------
+#=GR VOG0001|JF719733-AEQ25522.1|      PP ....9************..******........***********************.*********..*****************************98...................99999***************
+VOG0001|JF719734-AEQ25532.1|              ....MIKVEIKPSQAQF..TTRSGV........S-RQGKP-YSLNEQLCYVDLGNE.YPVLVKITL..DEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR------.-------------lrlvp-ak-----------
+#=GR VOG0001|JF719734-AEQ25532.1|      PP ....9************..******........***********************.*********..*****************************98...................99999***************
+VOG0001|NC_003287-NP_510887.1|            ....MIKVEIKPSQAQF..TTRSGV........S-RQGKP-YSLNEQLCYVDLGNE.YPVLVKITL..DEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR------.-------------lrlvp-ak-----------
+#=GR VOG0001|NC_003287-NP_510887.1|    PP ....9************..******........***********************.*********..*****************************98...................99999***************
+VOG0001|NC_025824-YP_009111299.1|         ....MIKVEIKPSQAQF..TTRSGV........S-RQGKP-YSLNEQLCYVDLGNE.YPVLVKITL..DEGQPAYAPGLYTVHLSSFKVGQFGSLMIDR------.-------------lrlvp-ak-----------
+#=GR VOG0001|NC_025824-YP_009111299.1| PP ....9************..******........***********************.*********..*****************************98...................99999***************
+VOG0001|JF719732-AEQ25512.1|              ....MIKVEIKPSQAQF..TTRSGV........S-RQGKP-YSLNEQLCYVDLGNE.YPVLVKITL..DEGQPAYAPGLYTVHLSSFKIGQFGSLMIDR------.-------------lrlvp-ak-----------
+#=GR VOG0001|JF719732-AEQ25512.1|      PP ....9************..******........***********************.*********..*****************************98...................99999***************
+VOG0001|AB910602-BAP16707.1|              ..mk---VQIMSSAVAI..R--SFP........A-RDGKPaTHFREQTAAVLREGD.FPLPFTISL..DEDQAPYGEGFYVIDPKSMQNNKYGGLEFGRRIRLIPdATAKAAQPAARVs...................
+#=GR VOG0001|AB910602-BAP16707.1|      PP ..*5...6666666653..3..9**........***********************.*********..************************************************96*...................
+VOG0001|NC_001396-NP_536673.1|            ....-MKVQIMSSAVAI..R--SFP........A-RDGKPaTHFREQTAAVLREGD.FPLPFTISL..DEDQAPYGEGFYVIDPKSMQNNKYGGLEFGRRIRLIPdATAKAAQPAARVs...................
+#=GR VOG0001|NC_001396-NP_536673.1|    PP .....588888888875..5..9**........***********************.*********..************************************************96*...................
+VOG0001|HG315669-CDF76785.1|              ....MPICRVKSAAVEE..RHNSKT.......nT.-----.-INRSQTVGLDLGNG.FELPFRVGL.gS--RPPYTPGEYDIDPQSFALSQYGDLVLKRYVDLVP-LQAKAAAAPAK-p-..................
+#=GR VOG0001|HG315669-CDF76785.1|      PP ....7788888888888..888887.......65........78************.*********.44..9*****************************************9998.6*..................
+VOG0001|NC_007189-YP_257152.1|            ....MPICRVKSAAVEE..RHNSKT.......nS.-----.-IIRSQMVGLDFGNG.FELPFRVGL.gS--RPPYPPGEYDIDPQSFALSQYGDLILKRYVDLVP-LSAKALPVAAKA-...................
+#=GR VOG0001|NC_007189-YP_257152.1|    PP ....8899999999999..999999.......88........9*************.*********.44..9********************************************96*...................
+VOG0001|NC_015586-YP_004539132.1|         ..ms-IKVTVLKNEIDE..RGGSFK........NdAGENVeYTTRKQKAKLETG-G-FAYPFDVRL..DKGQPGYPEGEYELDVESMLQVNKGVASLSKFTVLRP-LQKAAPRPAAQA-...................
+#=GR VOG0001|NC_015586-YP_004539132.1| PP ..*5.9***********..******........*999999***********985.89999******..************************************************97*...................
+VOG0001|NC_021569-YP_008130367.1|         ....MIKVIVLDSQINE..RGGSFT........NdRNENVeFTTRKQRAKLEAD-G-FAYPFDVRL..DKGQSGYPAGEYELDVPAMLQVNKGVATLSKFTILRP-LQKAAPRPAAQA-...................
+#=GR VOG0001|NC_021569-YP_008130367.1| PP ....9************..******........******************986.78899******..************************************************97*...................
+#=GC PP_cons                              ....99*99****9999..9*****........*.*****.************9**.*********..9*****************************9******.**********96....................
+#=GC RF                                   ....xxxxxxxxxxxxx..xxxxxx........x.xxxxx.xxxxxxxxxxxxxxx.xxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxx....................
+//
